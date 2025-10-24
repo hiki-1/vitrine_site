@@ -1,0 +1,16 @@
+{
+  "name": "vitrine_site",
+  "version": "1.0.0",
+  "description": "Site para apresentar item de uma loja física de forma digital para facilitar a interação do cliente com os itens.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
